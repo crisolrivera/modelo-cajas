@@ -1,0 +1,22 @@
+div {
+	width: 1000px;
+	height: 100px;
+background: #ffbb99;
+padding-top: 20px;
+padding-bottom: 50px;
+padding-left: 80px;
+padding-right: 15px;
+margin: 60px 50px;
+border-top: 10px #8600b3 solid; 
+border-bottom: 8px #8600b3 solid;
+border-left: 3px #8600b3 solid;
+border-right: 5px #8600b3 solid;
+
+}
+
+p{
+	background: white;
+	padding:25px 50px;
+	text-align: center;
+	border: 3px dotted;
+}
